@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.apache.kafka.clients.producer.ProducerRecord"><rhs name\="org.apache.kafka.clients.producer.ProducerRecord"/></lhs><lhs name\="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate"><rhs name\="com.sasmita.musings.shoppingcartservice.model.ShoppingCartResponse"/></lhs><lhs name\="com.sasmita.musings.shoppingcartservice.model.ShoppingCartResponse"><rhs name\="com.sasmita.musings.shoppingcartservice.model.ShoppingCartResponse"/></lhs><lhs name\="java.lang.Enum"><rhs name\="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate$StatusEnum"/><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate$StatusEnum"/><rhs name\="org.springframework.http.HttpStatus"/></lhs><lhs name\="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate$StatusEnum"><rhs name\="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate$StatusEnum"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale=en_GB
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+    <fullyQualifiedTypeName name="reactor.util.function.Tuple2"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.validator.ProductValidator"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.entity.Cart"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.model.ShoppingCartStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.admin.NewTopic"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.config.TopicBuilder"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.core.KafkaTemplate"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.producer.ProducerRecord"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+    <fullyQualifiedTypeName name="org.springframework.util.concurrent.ListenableFutureCallback"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.support.SendResult"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.annotation.EnableKafka"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.kafka.annotation.KafkaListener"/>
+    <fullyQualifiedTypeName name="org.apache.kafka.clients.consumer.ConsumerRecord"/>
+    <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.kafka.producer.EmailProducer"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.model.ShoppingCartResponse"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.model.ResponseTemplate.StatusEnum"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="com.sasmita.musings.shoppingcartservice.model.CartDetailsDTO"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.ApplicationRunner"/>
+</qualifiedTypeNameHistroy>
